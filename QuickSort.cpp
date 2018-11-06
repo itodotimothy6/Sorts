@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  QuickSort
-//
-//  Created by Timothy Itodo on 10/18/18.
-//  Copyright © 2018 Timothy Itodo. All rights reserved.
-//
-
 #include <iostream>
 using namespace std;
 
